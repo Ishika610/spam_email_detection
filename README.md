@@ -9,8 +9,6 @@ Welcome to the Spam Email Detection project! This repository contains code and r
 - [Usage](#usage)
 - [Models](#models)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
